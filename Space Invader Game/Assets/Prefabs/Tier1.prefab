@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2970067806459586733}
   - component: {fileID: 971879468984109875}
   m_Layer: 0
-  m_Name: Kla'ed - Battlecruiser - Base
+  m_Name: Tier1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
